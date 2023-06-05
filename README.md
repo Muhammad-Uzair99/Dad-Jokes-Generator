@@ -6,7 +6,7 @@ A simple Dad Jokes Generator that generates random dad jokes. Have a laugh and e
 
 ## Demo
 
-![Dad Jokes Generator Demo](demo.gif)
+![Dad Jokes Generator Demo](https://muhammad-uzair99.github.io/Dad-Jokes-Generator/)
 
 ## Description
 
